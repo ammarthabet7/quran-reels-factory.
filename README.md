@@ -16,7 +16,7 @@ A fully autonomous, "fire-and-forget" system to generate hundreds of high-qualit
 
 ###   Demo
 
-You can check my Tiktok account : https://www.tiktok.com/@w_zakker__
+You can check my Tiktok account : [https://www.tiktok.com/@w_zakker__](https://www.tiktok.com/@w_zakker__)
 ---
 
 ###  Project Structure
